@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h3>Languages</h3>
+  <h3>Languages and Frameworks</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7" />
   </a>
