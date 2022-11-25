@@ -7,5 +7,4 @@ Hi, The name is Nibras Alyassar
     <img src="[https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=7)" />
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev4ult&layout=compact)](https://github.com/dev4ult/github-readme-stats)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev4ult&layout=compact)](https://github.com/dev4ult/github-readme-stats)</p>
