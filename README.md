@@ -4,8 +4,8 @@
 </div>
 
 <div align=center>
-  <h2>I am an Informatic Student at Polytechnic Jakarta. Now aiming to become a fullstack web developer</h2>
-  <h4>status: Trying to develop a MERN stack App</h4>
+  <h2>I am an Informatic Student at Polytechnic Jakarta.<br/> Now aiming to become a fullstack web developer.</h2>
+  <h4>Status : Trying to develop a MERN stack App</h4>
 </div>
 
 <div align="center">
