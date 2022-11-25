@@ -14,7 +14,8 @@
   </a>
 </div>
 
-<div align="center" style="margin-top:50px">
+<div align="center">
+  <h3>Github Stats</h3>
   <img src="https://streak-stats.demolab.com/?user=dev4ult&theme=dark" />
 </div>
 
