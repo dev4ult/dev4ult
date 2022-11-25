@@ -14,9 +14,7 @@
   </a>
 </div>
 
-
-
-<div align="center">
+<div align="center" style="margin-top:50px">
   <img src="https://streak-stats.demolab.com/?user=dev4ult&theme=dark" />
 </div>
 
