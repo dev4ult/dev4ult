@@ -1,7 +1,7 @@
-<p align=center>
+<div align=center>
   <img style="margin: 0 auto; display:  block" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" />
-  <h1>Hi, The name is Nibras Alyassar hand 👋</h1>
-</p>
+  <h1 align="center">Hi, The name is Nibras Alyassar 👋</h1>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
