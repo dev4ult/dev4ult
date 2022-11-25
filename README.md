@@ -4,7 +4,7 @@ Hi, The name is Nibras Alyassar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7)" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7" />
   </a>
 </p>
 
