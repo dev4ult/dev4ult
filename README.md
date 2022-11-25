@@ -1,4 +1,4 @@
-![](https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif)
+<img align="center" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" />
 
 Hi, The name is Nibras Alyassar
 
