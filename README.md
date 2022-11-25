@@ -14,9 +14,9 @@
   </a>
 </div>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev4ult&theme=dark)](https://git.io/streak-stats)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dev4ult&theme=dark" />
+</div>
 
 <div align="center">
   <h4>Status : Trying to develop a MERN stack App</h4>
