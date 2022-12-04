@@ -22,7 +22,3 @@
 <div align="center">
   <h4>Status : Learning to develop a MERN stack web app</h4>
 </div>
-
-![Nibras's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev4ult&show_icons=true&theme=gradient)
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
