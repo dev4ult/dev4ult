@@ -1,6 +1,6 @@
 <div align=center>
   <img style="margin: 0 auto; display:  block" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" />
-  <h1 align="center">Hi, the name is Nibras Alyassar 👋</h1>
+  <h1 align="center" style="font-family: consolas;">Hi, the name is Nibras Alyassar 👋</h1>
 </div>
 
 <div align=center>
