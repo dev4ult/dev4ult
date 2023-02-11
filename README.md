@@ -19,9 +19,6 @@
   <img src="https://streak-stats.demolab.com/?user=dev4ult&theme=dark" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev4ult&layout=compact)](https://github.com/dev4ult/github-readme-stats)
-
-
 <div align="center">
   <h4>Status : Learning to develop a MERN stack web app</h4>
 </div>
