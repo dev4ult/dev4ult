@@ -1,20 +1,20 @@
 <table>
     <thead>
         <tr>
-            <th>Profile</th>
-            <th>Status</th>
+            <td>Profile</td>
+            <td>Status</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>L1 Name</td>
-            <td>L2 Name A</td>
+            <td>My Name is Nibras Alyassar 👋</td>
+            <td>'Building a MERN Stack web app'</td>
         </tr>
         <tr>
-          <td colspan="2">About</th>
+          <td colspan="2">About</td>
         </tr>
         <tr>
-            <td colspan="2"> I am an Informatic Student at Polytechnic Jakarta. 
+            <td colspan="2"> I am an Informatic Student at Polytechnic Jakarta. <br/>
                 Now aiming to become a fullstack web developer.
             </td>
         </tr>  
@@ -25,12 +25,6 @@
   <h3>Github Stats</h3>
   <img src="https://streak-stats.demolab.com/?user=dev4ult&theme=dark" />
 </div>
-
-<div align="center">
-  <h4>Status : Learning to develop a MERN stack web app</h4>
-</div>
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
