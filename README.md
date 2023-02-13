@@ -3,12 +3,14 @@
         <tr>
             <td>Profile</td>
             <td>Status</td>
+            <td>Technologies</td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>My Name is Nibras Alyassar 👋</td>
             <td>'Building a MERN Stack web app'</td>
+            <td rowspan="3"><img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7" /><td>
         </tr>
         <tr>
           <td colspan="2">About</td>
@@ -29,8 +31,6 @@
 ###
 
 <img align="right" height="150" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" />
-
-<img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7" />
 
 
 ###
