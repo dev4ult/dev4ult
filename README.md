@@ -35,6 +35,6 @@
 
 ###
 
-(https://github.com/dev4ult/dev4ult/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dev4ult/dev4ult/blob/output/github-contribution-grid-snake.svg)
 
 ###
