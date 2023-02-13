@@ -9,8 +9,14 @@
     <tbody>
         <tr>
             <td>My Name is Nibras Alyassar 👋</td>
-            <td>'Building a MERN Stack web app'</td>
-            <td rowspan="3"><img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7" /><td>
+            <td>
+                - Building a MERN Stack web app (ongoing)
+                - Migrating from js to ts (soon)
+                - Learn Next js (soon)
+            </td>
+            <td rowspan="3">
+                <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7" />
+            <td>
         </tr>
         <tr>
           <td colspan="2">About</td>
