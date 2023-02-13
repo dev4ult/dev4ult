@@ -10,9 +10,11 @@
         <tr>
             <td>My Name is Nibras Alyassar 👋</td>
             <td>
-                - Building a MERN Stack web app (ongoing)
-                - Migrating from js to ts (soon)
-                - Learn Next js (soon)
+                <ul>
+                    <li>Building a MERN Stack web app (ongoing)</li>
+                    <li>Migrating from js to ts (soon)</li>
+                    <li>Learn Next js (soon)</li>
+                <ul>
             </td>
             <td rowspan="3">
                 <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7" />
