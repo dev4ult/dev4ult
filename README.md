@@ -40,7 +40,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><img  src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" /></td>
+            <td><img height="150" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" /></td>
             <td> <img src="https://streak-stats.demolab.com/?user=dev4ult&theme=dark" /></td>
         </tr>
     </tbody>
