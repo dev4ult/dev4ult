@@ -11,10 +11,12 @@
             <td>L2 Name A</td>
         </tr>
         <tr>
-          <th  colspan="2">About</th>
+          <td colspan="2">About</th>
         </tr>
         <tr>
-            <td colspan="2"> I am an Informatic Student at Polytechnic Jakarta. Now aiming to become a fullstack web developer.</td>
+            <td colspan="2"> I am an Informatic Student at Polytechnic Jakarta. 
+                Now aiming to become a fullstack web developer.
+            </td>
         </tr>  
     </tbody>
 </table>
