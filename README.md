@@ -30,8 +30,6 @@
 
 <img align="right" height="150" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" />
 
-###
-
 <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=7" />
 
 
