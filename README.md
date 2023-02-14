@@ -36,14 +36,16 @@
 <table >
     <thead>
         <tr>
-            <td>My Pixel Art</td>
-            <td>Github Stats</td>
+            <td></td>
+            <th>Github Stats</th>
+            <td></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img height="200" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" /></td>
+            <td><img height="120" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" /></td>
             <td><img src="https://streak-stats.demolab.com/?user=dev4ult&theme=sea-dark" /></td>
+            <td><img height="120" src="https://github.com/dev4ult/dev4ult/blob/main/grass-block.png" /></td>
         </tr>
     </tbody>
 </table>
