@@ -37,7 +37,7 @@
     <thead>
         <tr>
             <td>Github Stats</td>
-            <td></td>
+            <td>Flying Donut</td>
         </tr>
     </thead>
     <tbody>
