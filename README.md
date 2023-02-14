@@ -41,7 +41,7 @@
     <tbody>
         <tr>
             <td><img height="150" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" /></td>
-            <td> <img src="https://streak-stats.demolab.com/?user=dev4ult&theme=react" /></td>
+            <td> <img src="https://streak-stats.demolab.com/?user=dev4ult&theme=javascript" /></td>
         </tr>
     </tbody>
 </table>
