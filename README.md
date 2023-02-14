@@ -1,3 +1,20 @@
+<table >
+    <thead>
+        <tr>
+            <td>My Pixel Art</td>
+            <td>Github Stats</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img height="150" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" /></td>
+            <td><img src="https://streak-stats.demolab.com/?user=dev4ult&theme=sea-dark" /></td>
+        </tr>
+    </tbody>
+</table>
+
+###
+
 <table>
     <thead>
         <tr>
@@ -28,21 +45,6 @@
                 Now aiming to become a fullstack web developer.
             </td>
         </tr>  
-    </tbody>
-</table>
-
-<table >
-    <thead>
-        <tr>
-            <td>My Pixel Art</td>
-            <td>Github Stats</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img height="150" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" /></td>
-            <td><img src="https://streak-stats.demolab.com/?user=dev4ult&theme=sea-dark" /></td>
-        </tr>
     </tbody>
 </table>
 
