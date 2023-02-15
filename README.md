@@ -17,7 +17,7 @@
                 <ul>
             </td>
             <td rowspan="3">
-                <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,html,css,tailwind,javascript,git,github,mysql,cpp,java&perline=5" />
+                <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,tailwind,javascript,git,github,mysql,cpp,java&perline=5" />
             </td>
         </tr>
         <tr>
