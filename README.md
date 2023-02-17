@@ -12,7 +12,6 @@
             <td>
                 <ul>
                     <li>Building a MERN Stack web app (ongoing)</li>
-                    <li>Migrating from js to ts (soon)</li>
                     <li>Learn Next js (soon)</li>
                 <ul>
             </td>
