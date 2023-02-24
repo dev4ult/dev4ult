@@ -11,7 +11,6 @@
             <td>My Name is Nibras Alyassar 👋</td>
             <td>
                 <ul>
-                    <li>Developing a MERN Stack web app (ongoing)</li>
                     <li>Learn Next js (soon)</li>
                 <ul>
             </td>
