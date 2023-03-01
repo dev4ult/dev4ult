@@ -10,10 +10,7 @@
         <tr>
             <td>My Name is Nibras Alyassar 👋</td>
             <td>
-                <ul>
-                    <li>Creating a front end template</li>
-                    <li>Learn Next js (soon)</li>
-                <ul>
+                ---
             </td>
             <td rowspan="3">
                 <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,tailwind,javascript,typescript,git,github,mysql,cpp,java&perline=5" />
