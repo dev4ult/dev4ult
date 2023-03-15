@@ -29,23 +29,6 @@
 
 ###
 
-<table >
-    <thead>
-        <tr>
-            <td>Github Stats</td>
-            <td>Flying Donut</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="https://streak-stats.demolab.com/?user=dev4ult&theme=sea-dark" /></td>
-            <td><img height="200" src="https://github.com/dev4ult/dev4ult/blob/main/animatedDonut2.gif" /></td>
-        </tr>
-    </tbody>
-</table>
-
-###
-
 <img align="center" src="https://github.com/dev4ult/dev4ult/blob/output/github-contribution-grid-snake.svg" />
 
 ###
