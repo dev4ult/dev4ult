@@ -26,7 +26,6 @@
         </tr>  
     </tbody>
 </table>
-
 ###
 
 <img align="center" src="https://github.com/dev4ult/dev4ult/blob/output/github-contribution-grid-snake.svg" />
