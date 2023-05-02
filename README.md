@@ -10,7 +10,7 @@
         <tr>
             <td>My Name is Nibras Alyassar 👋</td>
             <td>
-                ---
+                Learning Android
             </td>
             <td rowspan="3">
                 <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,tailwind,javascript,typescript,git,github,mysql,cpp,java&perline=5" />
