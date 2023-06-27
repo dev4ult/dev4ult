@@ -2,7 +2,7 @@
     <thead>
         <tr>
             <td>Profile</td>
-            <td>Status</td>
+            <td>Portfolio</td>
             <td>Technologies</td>
         </tr>
     </thead>
@@ -10,7 +10,7 @@
         <tr>
             <td>My Name is Nibras Alyassar 👋</td>
             <td>
-                -
+                <a href="https://dev4ult.github.io/react-portfo/">about_me</a>
             </td>
             <td rowspan="3">
                 <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,tailwind,javascript,typescript,git,github,mysql,cpp,java,flask&perline=5" />
