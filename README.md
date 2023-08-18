@@ -10,7 +10,7 @@
         <tr>
             <td>My Name is Nibras Alyassar 👋</td>
             <td>
-                <a href="https://portofolio-5bmwjontv-dev4ult.vercel.app/">dev4ult</a>
+                <a href="https://portofolio-dev4ult.vercel.app/">dev4ult</a>
             </td>
             <td rowspan="3">
                 <img align="left" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,tailwind,javascript,git,github,mysql,cpp,java,python,flask&perline=5" />
