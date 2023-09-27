@@ -13,7 +13,7 @@
                 <a href="https://portofolio-dev4ult.vercel.app/">dev4ult</a>
             </td>
             <td rowspan="3">
-                <img align="left" src="https://skillicons.dev/icons?i=go,react,nodejs,express,mongodb,php,tailwind,javascript,git,github,mysql,cpp,java,python,flask&perline=5" />
+                <img align="left" src="https://skillicons.dev/icons?i=go,react,nodejs,express,mongodb,codeigniter,php,tailwind,javascript,git,github,mysql,cpp,java,python,flask&perline=5" />
             </td>
         </tr>
         <tr>
