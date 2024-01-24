@@ -2,7 +2,7 @@
     <thead>
         <tr>
             <td>Name</td>
-            <td>Portfolio</td>
+            <td>Website</td>
             <td>Technologies</td>
         </tr>
     </thead>
