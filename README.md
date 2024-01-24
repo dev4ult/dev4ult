@@ -1,14 +1,14 @@
 <table>
     <thead>
         <tr>
-            <td>Profile</td>
+            <td>Name</td>
             <td>Portfolio</td>
             <td>Technologies</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>My Name is Nibras Alyassar 👋</td>
+            <td>Nibras Alyassar</td>
             <td>
                 <a href="https://nibras.my.id/">nibras.my.id</a>
             </td>
