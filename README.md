@@ -1,4 +1,4 @@
-[![Nibras's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev4ult6&theme=aura)](https://github.com/dev4ult)
+[![Nibras's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev4ult&theme=aura)](https://github.com/dev4ult)
 
 <table>
     <thead>
