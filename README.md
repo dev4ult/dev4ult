@@ -22,9 +22,7 @@
         <tr>
             <td colspan="2"> 
                 Hello there, I'm Nibras Alyassar! 👋 At 21 years old, I've found my passion in 
-                <br /> crafting the digital world through web development. I'm a dedicated web 
-                <br /> developer with 1.5 years of hands-on experience in both front and back 
-                <br /> end technologies.
+                <br /> crafting the digital world through web development.
             </td>
         </tr>  
     </tbody>
