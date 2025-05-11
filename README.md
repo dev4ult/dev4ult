@@ -10,10 +10,10 @@
         <tr>
             <td>Nibras Alyassar</td>
             <td>
-                <a href="https://nibras.my.id/">nibras.my.id</a>
+                <a href="https://nibras-alyassar.vercel.app/">My Portfolio</a>
             </td>
             <td rowspan="3">
-                <img align="left" src="https://skillicons.dev/icons?i=laravel,go,react,nodejs,express,mongodb,php,tailwind,javascript,git,github,mysql,flask&perline=5" />
+                <img align="left" src="https://skillicons.dev/icons?i=laravel,go,react,nextjs,nodejs,express,mongodb,postgresql,mariadb,php,tailwind,javascript,git,github,mysql,flask&perline=5" />
             </td>
         </tr>
         <tr>
