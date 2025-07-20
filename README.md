@@ -21,7 +21,7 @@
         </tr>
         <tr>
             <td colspan="2"> 
-                Hello there, My name is Nibras Alyassar! 👋 A web developer with a 2 years experience. If you need any help for making or building a website, you can message me through my <a href="https://www.linkedin.com/in/nibras-alyassar/">Linkedin Profile</a>
+                Hello there, My name is Nibras Alyassar! 👋 A web developer. If you need any help for making or building a website, you can message me through my <a href="https://www.linkedin.com/in/nibras-alyassar/">Linkedin Profile</a>
             </td>
         </tr>  
     </tbody>
